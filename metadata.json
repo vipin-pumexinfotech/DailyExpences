@@ -1,0 +1,6 @@
+{
+  "name": "SpendWise",
+  "description": "Minimalist income & expense monitor v1.2.0. Developer: Vipin.RV (vipin.kalathinkal@gmail.com, https://www.linkedin.com/in/vipin-rv)",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
